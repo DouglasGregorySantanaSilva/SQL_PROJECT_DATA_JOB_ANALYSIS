@@ -1,5 +1,5 @@
--- Objetivo da Consulta: Identificar as melhores oportunidades para aplicação como Analista de Dados no Brasil no ano de 2023 --
--- Query objective: Identify the best job oportunities for an Data Analyst in Brazil and remote work in 2023 --
+-- Objetivo da Consulta: Identificar as melhores oportunidades como Analista de Dados no Brasil no ano de 2023 --
+-- Query objective: Identify the best job oportunities for an Data Analyst in Brazil at 2023 --
 
 SELECT
     jpf.job_id AS Número_de_Identificação,
